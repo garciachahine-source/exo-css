@@ -1,0 +1,37 @@
+* { box-sizing: border-box; }
+body {
+    background-color: rgb(0, 0, 255); background: #0029f7;
+background: linear-gradient(90deg,rgba(0, 41, 247, 1) 0%, rgba(87, 199, 133, 1) 50%, rgba(237, 221, 83, 1) 100%);
+background: #020024;
+background: linear-gradient(90deg,rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
+background: #020024;
+background: linear-gradient(90deg,rgba(2, 0, 36, 1) 0%, rgba(0, 0, 232, 1) 0%, rgba(149, 0, 255, 1) 58%);
+}
+h1 {
+    color: brown;
+    text-align: center
+}
+#intro {
+    font-style: italic;
+}
+.important{
+    font-weight: bold;
+} 
+p {
+    font-size: 2rem 
+}
+.rouge{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+}
+.carte{
+    padding: 20px;
+    border: 1px solide #ccc;,
+    border-radius: 12px;,
+    margin: 16px 0;
+}
+
+
+
+
